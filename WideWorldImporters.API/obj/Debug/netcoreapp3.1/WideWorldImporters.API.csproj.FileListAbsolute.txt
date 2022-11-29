@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.AssemblyInfo.cs
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\SWII6_TP04-master\WideWorldImporters.API\obj\Debug\netcoreapp3.1\WideWorldImporters.API.MvcApplicationPartsAssemblyInfo.cache
